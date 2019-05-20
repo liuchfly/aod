@@ -2,15 +2,15 @@
     <div class="banner">
         <mt-swipe :auto="4000">
             <mt-swipe-item>
-                <img @load="loadImage" src="../../common/imgage/banner1.jpg" height="500"  width="1380" alt="">
+                <img class="pic" @load="loadImage" src="../../common/imgage/banner1.jpg" height="500"  width="1380" alt="">
             </mt-swipe-item>
-            <mt-swipe-item>
+            <mt-swipe-item class="pic">
                 <img @load="loadImage" src="../../common/imgage/banner2.jpg" height="500"  width="1380" alt="">
             </mt-swipe-item>
-            <mt-swipe-item>
+            <mt-swipe-item class="pic">
                 <img @load="loadImage" src="../../common/imgage/banner3.jpg" height="500"  width="1380" alt="">
-            </mt-swipe-item>
-            <mt-swipe-item>
+            </mt-swipe-item >
+            <mt-swipe-item class="pic">
                 <img @load="loadImage" src="../../common/imgage/banner4.png" height="500"  width="1380" alt="">
             </mt-swipe-item>
         </mt-swipe>
