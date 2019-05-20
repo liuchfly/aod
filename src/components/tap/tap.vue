@@ -50,6 +50,7 @@ export default {
 .tap{
     background-color: #005ca1;
     height: 35px;
+    min-width: 1000px;
     >ul{
         display: flex;
         width: 1000px;

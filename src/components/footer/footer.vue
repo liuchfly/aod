@@ -20,6 +20,7 @@ export default {
 <style lang="less" scoped>
 .footer{
     height: 160px;
+    min-width: 1000px;
     >.bool_line{
         height: 10px;
         background-color: #005ca1;
