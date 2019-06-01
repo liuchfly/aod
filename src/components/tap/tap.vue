@@ -37,7 +37,13 @@ export default {
                     break;  
                 case 'history':
                     this.$router.push('/history')
-                    break;            
+                    break;  
+                case 'student':
+                    this.$router.push('/student')
+                    break;  
+                case 'news':
+                    this.$router.push('/news')
+                    break;                     
                 default:
                     break;
             }

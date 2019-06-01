@@ -7,25 +7,79 @@
         <div class="history_list">
             <div class="history_item">
                 <div class="item">
-                    <img src="../../common/imgage/student/xueshegn11.jpg" height="180" alt="">
+                    <img src="../../common/imgage/student/1.jpg" width="180" height="110" alt="">
                     <p>中国传媒大学</p>
                 </div>
                 <div class="item">
-                    <img src="../../common/imgage/student/xueshegn11.jpg" height="180" alt="">
+                    <img src="../../common/imgage/student/2.jpg" width="180" height="110" alt="">
                     <p>中国传媒大学</p>
                 </div>
                 <div class="item">
-                    <img src="../../common/imgage/student/xueshegn11.jpg" height="180" alt="">
+                    <img src="../../common/imgage/student/3.jpg" width="180" height="110" alt="">
                     <p>中国传媒大学</p>
                 </div>
                 <div class="item">
-                    <img src="../../common/imgage/student/xueshegn11.jpg" height="180" alt="">
+                    <img src="../../common/imgage/student/4.jpg" width="180" height="110" alt="">
                     <p>中国传媒大学</p>
                 </div>
             </div>
             <div class="history_item">
                 <div class="item">
-                    <img src="../../common/imgage/student/xueshegn1.jpg" width="180" height="130" alt="">
+                    <img src="../../common/imgage/student/5.jpg" width="180" height="110" alt="">
+                    <p>中国传媒大学</p>
+                </div>
+                <div class="item">
+                    <img src="../../common/imgage/student/6.jpg" width="180" height="110" alt="">
+                    <p>中国传媒大学</p>
+                </div>
+                <div class="item">
+                    <img src="../../common/imgage/student/7.jpg" width="180" height="110" alt="">
+                    <p>中国传媒大学</p>
+                </div>
+                <div class="item">
+                    <img src="../../common/imgage/student/8.jpg" width="180" height="110" alt="">
+                    <p>中国传媒大学</p>
+                </div>
+            </div>
+            <div class="history_item">
+                <div class="item">
+                    <img src="../../common/imgage/student/xueshegn5.jpg" width="180" height="110" alt="">
+                    <p>中国传媒大学</p>
+                </div>
+                <div class="item">
+                    <img src="../../common/imgage/student/xueshegn6.jpg" width="180" height="110" alt="">
+                    <p>中国传媒大学</p>
+                </div>
+                <div class="item">
+                    <img src="../../common/imgage/student/xueshegn7.jpg" width="180" height="110" alt="">
+                    <p>中国传媒大学</p>
+                </div>
+                <div class="item">
+                    <img src="../../common/imgage/student/xueshegn8.jpg" width="180" height="110" alt="">
+                    <p>中国传媒大学</p>
+                </div>
+            </div>
+            <div class="history_item">
+                <div class="item">
+                    <img src="../../common/imgage/student/xueshegn1.jpg" width="180" height="110" alt="">
+                    <p>中国传媒大学</p>
+                </div>
+                <div class="item">
+                    <img src="../../common/imgage/student/xueshegn2.jpg" width="180" height="110" alt="">
+                    <p>中国传媒大学</p>
+                </div>
+                <div class="item">
+                    <img src="../../common/imgage/student/xueshegn3.jpg" width="180" height="110" alt="">
+                    <p>中国传媒大学</p>
+                </div>
+                <div class="item">
+                    <img src="../../common/imgage/student/xueshegn4.jpg" width="180" height="110" alt="">
+                    <p>中国传媒大学</p>
+                </div>
+            </div>
+            <div class="history_item">
+                <div class="item">
+                    <img src="../../common/imgage/student/xueshegn11.jpg" height="180" alt="">
                     <p>中国传媒大学</p>
                 </div>
                 <div class="item">
@@ -56,24 +110,6 @@
                 </div>
                 <div class="item">
                     <img src="../../common/imgage/student/xueshegn18.jpg" height="180" alt="">
-                    <p>中国传媒大学</p>
-                </div>
-            </div>
-            <div class="history_item">
-                <div class="item">
-                    <img src="../../common/imgage/student/xueshegn19.jpg" height="180" alt="">
-                    <p>中国传媒大学</p>
-                </div>
-                <div class="item">
-                    <img src="../../common/imgage/student/xueshegn11.jpg" height="180" alt="">
-                    <p>中国传媒大学</p>
-                </div>
-                <div class="item">
-                    <img src="../../common/imgage/student/xueshegn11.jpg" height="180" alt="">
-                    <p>中国传媒大学</p>
-                </div>
-                <div class="item">
-                    <img src="../../common/imgage/student/xueshegn11.jpg" height="180" alt="">
                     <p>中国传媒大学</p>
                 </div>
             </div>
@@ -112,9 +148,9 @@ export default {
             border-bottom: 1px solid #ccc;
             >.item{
                 flex: 1;
-                display: flex;
+                // display: flex;
                 p{
-                    line-height: 180px;
+                    line-height: 30px;
                     flex:1;
                     font-size: 12px;
                     text-align: center;
